@@ -1,2 +1,2 @@
 # motorSpeedControllerGui
-This is an example GUI project for embedded IoT projects.
+Example GUI application for embedded IoT motor speed control.
