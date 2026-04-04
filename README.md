@@ -1,2 +1,3 @@
-# motorSpeedControllerGui
-Example GUI application for embedded IoT motor speed control.
+# motor-speed-controller-gui
+
+GUI application for embedded IoT motor speed control.
